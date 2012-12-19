@@ -20,7 +20,7 @@ The app that you develop needs to meet the following criteria:
 
 Don't be afraid of keeping it simple or if you have little time to do it, we are looking for very **minimalistic** stuff this time.
 
-You have time until **Thusday Dec. 20th EOD Pacific Time** to publish your work.
+You have time until **Wednesday Dec. 26th EOD Pacific Time** to publish your work.
 
 ## What are the technical/formal requirements?
 
