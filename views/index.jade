@@ -1,0 +1,17 @@
+extends layout
+
+block head
+	script(type="text/javascript", src="/javascripts/MovieControl.js")
+	script(type="text/javascript")
+		window.movieData = !{JSON.stringify(movies)}
+	
+block content
+	div(id="wonderfix")
+	div(id="content")
+		div(id="viewport")
+			div(id="week")
+				p
+			iframe(id="cinema", width="640", height="360", frameborder="0", allowfullscreen)
+			div(id="videograph")
+				h1(id="title")
+		
