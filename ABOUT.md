@@ -1,13 +1,13 @@
-_YOUR_APPLICATION_NAME_
-=======================
+2012 Box Office Cinema
+======================
 
-This is a sample file you can edit to tell us more about your app and yourself. We encourage you to do so!. _You can just remove this lines or replace them with a proper "welcome" text_ 
+Get in the 2012 cinema! See the high grossing movies in the US per week
 
 ## About the application
 
-_add a simple description or your app, what does it do, which libraries uses, or any other thing you consider interesting to share_
+The app fetches videos using the YouTube API. Box office information is scraped from [Box Office Mojo](http://boxofficemojo.com).
+You move through the weeks using up and down arrows.
 
 ## About the author
 
-_tell us a little bit about yourself, what do you do, what do you like, whatever you want to share_
-
+Julian Azzolina is a web designer that is as well insterested in the programming aspects of Web Development. He is also a big fan of Lionel Messi

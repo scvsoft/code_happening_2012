@@ -30,6 +30,7 @@ renderMovie = function() {
 $(document).ready(function() {
 	window.movieIndex=0;
 	$(document).keydown(function(event) {
+		$("#legend").slideUp();
 		switch(event.which) {
 			case 38: nextMovie(); break
 			case 40: previousMovie(); break;

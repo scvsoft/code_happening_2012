@@ -82,3 +82,20 @@ h1 {
 	margin: auto 15px;
 	top: 70px;
 }
+
+#legend {
+    background-color: #003355;
+    color: white;
+	font-family: "Doom",Sans-Serif;
+	text-shadow: 0 0 1.2em #ffffff;	
+    font-size: 14pt;
+    height: 50px;
+    line-height: 50px;
+    opacity: 0.5;
+    position: fixed;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    width: 100%;
+    z-index: 9000;
+}
